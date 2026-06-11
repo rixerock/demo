@@ -8,5 +8,5 @@ void loop() {
   // put your main code here, to run repeatedly:
   Serial.println("loop main");
   delay(1000);
-  delay(100)
+  delay(100);;
 }
